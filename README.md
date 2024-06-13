@@ -20,7 +20,7 @@ I'm Sushrith Bogi, a passionate developer and competitive programming enthusiast
 Reach out at:  
 [LinkedIn](https://www.linkedin.com/in/sushrith-bogi-367b51236/)  
 [Email](mailto:bogisushrith@google.com)  
-[Wikimedia Gerrit](https://gerrit.wikimedia.org/r/#/q/owner:bogisushrith/)  
+[Wikimedia Gerrit](https://gerrit.wikimedia.org/r/#/q/owner:bogisushrith)  
 GitHub: You're already here! 😊
 
 
