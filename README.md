@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Sushrith Bogi, a passionate developer and competitive programming enthusiast driven by curiosity and innovation. I love tackling challenges and contributing to open-source projects. My journey in the tech world involves actively improving software and collaborating with other developers. I enjoy experimenting with different technologies, finding elegant solutions to complex problems, and continuously expanding my knowledge.
+
+Reach out at:  
+[LinkedIn](https://www.linkedin.com/in/sushrith-bogi-367b51236/)  
+[Email](mailto:bogisushrith@google.com)  
+[Wikimedia Gerrit](https://gerrit.wikimedia.org/r/#/q/owner:bogisushrith/)  
+GitHub: You're already here! 😊
+
+
